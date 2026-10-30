@@ -1,0 +1,25 @@
+{
+  "rules": [
+    {
+      "keywords": ["salam", "hello", "hi", "привет"],
+      "reply": "Salam! 👋 Mesajınız üçün təşəkkürlər. Sizə necə kömək edə bilərəm?"
+    },
+    {
+      "keywords": ["qiymət", "qiymet", "neçəyə", "nece", "price"],
+      "reply": "Qiymətlərimiz haqqında ətraflı məlumatı tezliklə göndərəcəyik."
+    },
+    {
+      "keywords": ["ünvan", "unvan", "harada", "address"],
+      "reply": "Ünvanımız: Bakı şəhəri, ... küçəsi. Sizi gözləyirik!"
+    },
+    {
+      "keywords": ["iş saat", "is saat", "açıq", "aciq"],
+      "reply": "Bazar ertəsi – Cümə: 09:00–18:00. Şənbə və bazar istirahət günüdür."
+    },
+    {
+      "keywords": ["sağ ol", "sag ol", "təşəkkür", "tesekkur", "thanks"],
+      "reply": "Dəyməz! 😊 Başqa sualınız olsa, yazın."
+    }
+  ],
+  "default": "Mesajınızı aldıq. Tezliklə sizə cavab verəcəyik. 🙏"
+}
